@@ -1,0 +1,4 @@
+---
+# This role initializes the management "zone"
+# This currently is the "container" that manages access to AAP, IdM, and Satellite
+# It uses RH-ISAM model to abstract away cloud API differences
